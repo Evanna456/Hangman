@@ -1,4 +1,4 @@
-## About Hangman
+## Hangman
 
 A word game.
 
@@ -9,7 +9,7 @@ A word game.
 * 1.)Download and Install [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
 * 2.)Run Executable.
 
-## About C#
+## C#
 
 <p align="center"><img src="https://i.imgur.com/LkGw37V.png" width="150px" height="auto" alt="Logo"></a></p>
 
