@@ -52,6 +52,7 @@ namespace Hangman
             }else{
             Console.WriteLine("Hanged!");
             }
+            Console.ReadKey();
         }
     }
 }
