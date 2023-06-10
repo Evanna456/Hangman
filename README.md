@@ -2,7 +2,9 @@
 
 A word game.
 
-> Under Construction.
+## Download
+
+[Release](https://mega.nz/file/ZEIilKAJ#pIpRfiSK_cf6qRLLgedG5OCmFz9dwoadelAfaJQcI6w)
 
 ## Usage
 
