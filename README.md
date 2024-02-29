@@ -6,11 +6,6 @@ A word game.
 
 [Release](https://mega.nz/file/ZEIilKAJ#pIpRfiSK_cf6qRLLgedG5OCmFz9dwoadelAfaJQcI6w)
 
-## Usage
-
-* 1.)Download and Install [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
-* 2.)Run Executable.
-
 ## C#
 
 <p align="center"><img src="https://i.imgur.com/LkGw37V.png" width="150px" height="auto" alt="Logo"></a></p>
